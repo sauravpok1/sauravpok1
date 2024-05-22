@@ -1,5 +1,10 @@
-## Hi there 👋
+#Hi there, I am Saurav Pokhrel 👋
 
+# 🚀 About Me
+- 🔭 I’m currently working on a **DotNet Core** and **Angular** app
+- 🌱 I’m learning **MongoDB** and **TypeScript**
+- 💬 Ask me about **JavaScript**, **ANgular**, **ABP.io**, **jQuery**,**MVC**
+- 📫 Reach me at: saupok111@gmail.com
 <!--
 **sauravpok1/sauravpok1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
